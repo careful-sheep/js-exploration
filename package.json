@@ -1,0 +1,21 @@
+{
+    "name": "js-exploration",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "dev": "node"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/careful-sheep/js-exploration.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/careful-sheep/js-exploration/issues"
+    },
+    "homepage": "https://github.com/careful-sheep/js-exploration#readme"
+}
